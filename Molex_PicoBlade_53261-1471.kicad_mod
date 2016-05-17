@@ -45,4 +45,5 @@
   (pad 14 smd rect (at 8.125 -2.9) (size 0.8 1.6) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at -10.675 0) (size 2.1 3) (layers F.Cu F.Paste F.Mask))
   (pad "" smd rect (at 10.675 0) (size 2.1 3) (layers F.Cu F.Paste F.Mask))
+(model Connectors_Molex.3dshapes/Molex_PicoBlade_53261-1471.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )

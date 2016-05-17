@@ -105,4 +105,5 @@
   (pad 78 smd rect (at 9.25 2.75) (size 0.3 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 79 smd rect (at 9.75 -2.75) (size 0.3 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 80 smd rect (at 9.75 2.75) (size 0.3 1.1) (layers F.Cu F.Paste F.Mask))
+(model Connectors_Molex.3dshapes/Molex_SlimStack_Receptacle_02x40_0.5mm_54722-0804.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0)))
 )
