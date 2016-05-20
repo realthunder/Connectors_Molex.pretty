@@ -1,0 +1,22 @@
+(module Molex_PicoBlade_51021-53398-0771 (layer F.Cu) (tedit 573E1EF0)
+  (descr "Molex PicoBlade receptacle in vertical. 7 ways")
+  (tags "connector PicoBlade receptacle")
+  (attr smd)
+  (fp_text reference REF** (at 6.85 -3.3) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Molex_PicoBlade_51021-0771 (at 0 3.3) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -5.25 -2.1) (end -5.25 1.9) (layer F.Fab) (width 0.2))
+  (fp_line (start -5.25 1.9) (end 5.25 1.9) (layer F.Fab) (width 0.2))
+  (fp_line (start 5.25 1.9) (end 5.25 -2.1) (layer F.Fab) (width 0.2))
+  (fp_line (start 5.25 -2.1) (end -5.25 -2.1) (layer F.Fab) (width 0.2))
+  (fp_line (start -5.25 -2.1) (end -3.75 -0.6) (layer F.Fab) (width 0.2))
+  (fp_line (start -3.75 -0.6) (end -2.25 -2.1) (layer F.Fab) (width 0.2))
+  (model Connectors_Molex.3dshapes/Molex_PicoBlade_51021-0700.wrl
+    (at (xyz 0 0.019685 0.149606))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
+)

@@ -1,0 +1,20 @@
+(module Molex_PicoBlade_51021-53048-0210 (layer F.Cu) (tedit 573E2984)
+  (descr "Molex PicoBlade receptacle. Horizontal. 2 ways")
+  (tags "connector PicoBlade receptacle")
+  (fp_text reference REF** (at 3.09372 -2.26314) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Molex_PicoBlade_51021-0200 (at 0.625 5.65) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 0.5 -1.05) (end -1.5 0.95) (layer F.Fab) (width 0.2))
+  (fp_line (start -1.5 0.95) (end -1.5 4.45) (layer F.Fab) (width 0.2))
+  (fp_line (start -1.5 4.45) (end 2.75 4.45) (layer F.Fab) (width 0.2))
+  (fp_line (start 2.75 4.45) (end 2.75 -1.05) (layer F.Fab) (width 0.2))
+  (fp_line (start 2.75 -1.05) (end 0.5 -1.05) (layer F.Fab) (width 0.2))
+  (model Connectors_Molex.3dshapes/Molex_PicoBlade_51021-0200.wrl
+    (at (xyz 0.02283465 -0.137795 0.07874))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+)
